@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/ErshuiWang/resign-apk",
   "devDependencies": {
-    "electron": "^2.0.2"
+    "electron": "^2.0.2",
+    "jquery": "^3.3.1"
   }
 }
