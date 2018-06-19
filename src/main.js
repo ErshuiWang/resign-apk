@@ -6,6 +6,7 @@ const {app, BrowserWindow} = require('electron')
   
     // 然后加载应用的 index.html。
     win.loadFile('index.html')
+    win.setTitle('APK批量重新签名工具');
   }
   
   app.on('ready', createWindow)
