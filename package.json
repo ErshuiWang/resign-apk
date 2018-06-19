@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ErshuiWang/resign-apk/issues"
   },
-  "homepage": "https://github.com/ErshuiWang/resign-apk"
+  "homepage": "https://github.com/ErshuiWang/resign-apk",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
 }
